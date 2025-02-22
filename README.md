@@ -209,7 +209,7 @@ if __name__ == "__main__":
 ---
 
 ## 🏆 Contributors
-- **John Atkins**  
+- **Nate Cirino**  
 - Open-source contributions are welcome! Submit a **pull request**.  
 
 ---
